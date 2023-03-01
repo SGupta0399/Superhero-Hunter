@@ -20,7 +20,7 @@ If you want to visit this cloned website then it is recommended to go through th
 
 ## Instructions to Run the Code 
 
-- Clone the repository `https://github.com/aakash-0/Super-Hero-Hunter`
+- Clone the repository 'https://sgupta0399.github.io/Superhero-Hunter/'
 - Then Open the code in your VS code
 - At last Open the `index.html` with Live server
 
